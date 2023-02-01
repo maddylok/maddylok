@@ -6,5 +6,5 @@
 I'm a front-end developer based in Southern California. 
 <img src="">
 
-I'm currently working on developing an e-commerce website.
+## I'm currently working on developing an e-commerce website.
 
