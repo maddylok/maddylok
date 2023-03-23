@@ -8,4 +8,4 @@ I'm currently working on developing an e-commerce website. :seedling:
 <img height = "40" alt = "html" src = "https://github.com/maddylok/maddylok/blob/0cf89e4d8674171a147f37143fa7acdeb1653a81/github_images/html.png"> 
 <img height = "40" alt = "css" src = "https://github.com/maddylok/maddylok/blob/0cf89e4d8674171a147f37143fa7acdeb1653a81/github_images/css.png">
 <img height = "30" alt = "cpp" src = "https://github.com/maddylok/maddylok/blob/0cf89e4d8674171a147f37143fa7acdeb1653a81/github_images/cpp.png">
-
+<img height = "30" alt = "python" src = 
