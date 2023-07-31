@@ -11,4 +11,4 @@ I'm currently working on redesigning my favorite local restaurant's website. :se
 <img height = "30" alt = "python" src = "https://github.com/maddylok/maddylok/blob/857abe112e6c3fa57515e989e735afd37a89ab83/github_images/Screen%20Shot%202023-03-23%20at%204.44.05%20PM.png">
 <img height = "30" alt = "react" src = "https://github.com/maddylok/maddylok/blob/main/github_images/react.png">
 
-My portfolio: <a href = "https://maddylok.github.io/maddy-portfolio/">
+My portfolio: <a href = "https://maddylok.github.io/maddy-portfolio/"><img src = "https://github.com/maddylok/maddylok/blob/77ff8b87956579bf7ccf403ea616afa50f84d730/github_images/Screen%20Shot%202023-07-31%20at%202.22.35%20PM.png" ></a>
