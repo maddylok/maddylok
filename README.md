@@ -1,8 +1,8 @@
 ### :bamboo: hello and 你好! I'm Maddy Lok (she/her).
 
-I'm a full stack developer based in Southern California. <img height = "70" src="https://github.com/maddylok/maddylok/blob/0a4b9a50c973d1c9f1dc691a6f05b4a4c18a998f/totoro.gif">
+I'm a Data Scientist based in New York City. <img height = "70" src="https://github.com/maddylok/maddylok/blob/0a4b9a50c973d1c9f1dc691a6f05b4a4c18a998f/totoro.gif">
 
-I'm currently working on redesigning my favorite local restaurant's website. :seedling:
+I'm currently in my second year at Northwestern working towards my Masters in Data Science. :seedling:
 
 <img height = "30" alt = "javascript" src = "https://github.com/maddylok/maddylok/blob/0cf89e4d8674171a147f37143fa7acdeb1653a81/github_images/JavaScript-logo.png">
 <img height = "40" alt = "html" src = "https://github.com/maddylok/maddylok/blob/0cf89e4d8674171a147f37143fa7acdeb1653a81/github_images/html.png"> 
